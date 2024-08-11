@@ -1,7 +1,7 @@
 **Quick Brief**
 - 👋 Hi, I’m @christoaaron
 - 👀 Passionate about the Tourism Industry and Sustainable Practices
-- 🌱 Currently learning Python
+- 🌱 Currently learning Python, MySQL
 - ⚡ Fun fact: I’m a quick learner, highly adaptive, and a reliable problem solver!
 
 **Reach me at:**
